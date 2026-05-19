@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:005B60,100:0097a7&height=220&section=header&text=🧬%20SLC6A4%20Variant%20Pipeline&fontSize=52&fontColor=e0f7fa&fontAlignY=40&desc=Variant%20Detection%20%26%20Functional%20Interpretation%20using%20Simulated%20NGS%20Reads&descAlignY=62&descSize=15&descColor=90caf9&animation=fadeIn" width="100%"/>
+![SLC6A4 Variant Pipeline](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,40:005B60,100:0097a7&height=220&section=header&text=🧬%20SLC6A4%20Variant%20Pipeline&fontSize=52&fontColor=e0f7fa&fontAlignY=40&desc=Variant%20Detection%20%26%20Functional%20Interpretation%20using%20Simulated%20NGS%20Reads&descAlignY=62&descSize=15&descColor=90caf9&animation=fadeIn)
 
 <br/>
 
