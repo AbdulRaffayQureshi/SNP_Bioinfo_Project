@@ -1,0 +1,10 @@
+Source,Target,Interaction Type
+SLC6A4,Position_12,Gene to Variant
+SLC6A4,Position_45,Gene to Variant
+SLC6A4,Position_78,Gene to Variant
+Position_12,Non-synonymous (Missense),Variant to Effect
+Position_45,Synonymous (Silent),Variant to Effect
+Position_78,Non-synonymous (Missense),Variant to Effect
+Non-synonymous (Missense),Altered Polarity/Charge (Lost + Charge),Effect to Function
+Synonymous (Silent),No Biochemical Change,Effect to Function
+Non-synonymous (Missense),Maintained Neutral Polar State,Effect to Function
