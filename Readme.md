@@ -295,7 +295,7 @@ Cytoscape network following the required **Gene → Variant → Effect → Funct
 | | |
 |:---|:---|
 | **Group** | Group 01 — SLC6A4 |
-| **Program** | BS Bioinformatics (BSB) |
+| **Program** | BS Bioinformatics (BSI) |
 | **University** | COMSATS University Islamabad |
 | **Course** | Bioinformatics Analysis Lab — Final Project |
 | **Submission** | 20th May 2026 |
